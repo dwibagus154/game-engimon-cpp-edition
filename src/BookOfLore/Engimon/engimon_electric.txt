@@ -1,0 +1,10 @@
+Hamstun,2601.
+Rabbyte,2602.
+Staranzee,2603.
+Blastster,2604.
+Voltphant,2605.
+Vultaid,2606.
+Electritopus,2607.
+Koalite,2608.
+Steelhawk,2609.
+Dractric,2610.

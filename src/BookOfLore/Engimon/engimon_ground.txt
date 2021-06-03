@@ -1,0 +1,10 @@
+Irodine,2801.
+Drasaur,2802.
+Sandopus,2803.
+Gazite,2804.
+Mountadillo,2805.
+Termime,2806.
+Pandithe,2807.
+Shelmite,2808.
+Gorinite,2809.
+Komodough,2810.
